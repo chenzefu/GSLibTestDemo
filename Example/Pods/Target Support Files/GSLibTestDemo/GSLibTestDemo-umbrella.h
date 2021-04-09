@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "Date.h"
 
 FOUNDATION_EXPORT double GSLibTestDemoVersionNumber;
 FOUNDATION_EXPORT const unsigned char GSLibTestDemoVersionString[];
