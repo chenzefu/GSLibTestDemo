@@ -1,0 +1,22 @@
+{
+  "name": "GSLibTestDemo",
+  "version": "0.1.0",
+  "summary": "A short description of GSLibTestDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/chenzefu/GSLibTestDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chenzefu": "1509072523@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/chenzefu/GSLibTestDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "GSLibTestDemo/Classes/**/*"
+}

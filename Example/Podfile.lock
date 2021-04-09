@@ -1,0 +1,16 @@
+PODS:
+  - GSLibTestDemo (0.1.0)
+
+DEPENDENCIES:
+  - GSLibTestDemo (from `../`)
+
+EXTERNAL SOURCES:
+  GSLibTestDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GSLibTestDemo: 68a565c12e6af33d955f2160c09c2c0272c1c486
+
+PODFILE CHECKSUM: f5cc5cd1403c8e048018e770cb18ef14a7c64b39
+
+COCOAPODS: 1.10.1

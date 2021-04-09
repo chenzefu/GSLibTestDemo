@@ -1,0 +1,6 @@
+framework module GSLibTestDemo {
+  umbrella header "GSLibTestDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

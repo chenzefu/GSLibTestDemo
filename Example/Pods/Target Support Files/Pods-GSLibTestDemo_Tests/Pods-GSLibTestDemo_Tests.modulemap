@@ -1,0 +1,6 @@
+framework module Pods_GSLibTestDemo_Tests {
+  umbrella header "Pods-GSLibTestDemo_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
